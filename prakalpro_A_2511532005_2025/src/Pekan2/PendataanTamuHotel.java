@@ -51,7 +51,11 @@ public class PendataanTamuHotel {
 			
 			
 			System.out.println("Total Biaya : Rp " + totalBiaya);
-		} else {
+			
+			// Pesan tambahan untuk tamu
+			System.out.println("Selamat Beristirahat");
+		} else { 
+			
 			// Jika anak-anak
 			System.out.println("=== Data Tamu Hotel ===");
 			System.out.println("Nama Tama : " + namaTamu);
