@@ -1,0 +1,83 @@
+📘 TUGAS PRAKTIKUM JAVA – OPERATOR (BANGUN RUANG)
+
+Instruksi:
+1. Pilih salah satu bangun ruang di bawah ini.
+2. Buatlah program Java menggunakan Scanner untuk menghitung volumenya.
+3. Wajib menuliskan:
+   - Pseudocode program
+   - Flowchart program
+   - Kode program Java
+   - Output program (contoh uji coba)
+4. Gunakan operator aritmatika (+, -, *, /).
+5. Tidak boleh menggunakan perulangan (for/while) atau percabangan (if/switch).
+6. Nilai π gunakan 3.14.
+
+=================================================================
+Pilihan Bangun Ruang:
+
+1. Volume Tabung
+   Rumus: V = π × r² × t
+   Input: jari-jari (r), tinggi (t)
+   Output: Volume tabung
+
+   Contoh Output:
+   Masukkan jari-jari tabung: 7
+   Masukkan tinggi tabung: 10
+   Volume tabung = 1538.6
+
+-----------------------------------------------------------
+
+2. Volume Kerucut
+   Rumus: V = 1/3 × π × r² × t
+   Input: jari-jari (r), tinggi (t)
+   Output: Volume kerucut
+
+   Contoh Output:
+   Masukkan jari-jari kerucut: 7
+   Masukkan tinggi kerucut: 10
+   Volume kerucut = 513.3333333333334
+
+-----------------------------------------------------------
+
+3. Volume Bola
+   Rumus: V = 4/3 × π × r³
+   Input: jari-jari (r)
+   Output: Volume bola
+
+   Contoh Output:
+   Masukkan jari-jari bola: 7
+   Volume bola = 1436.2666666666667
+
+-----------------------------------------------------------
+
+4. Volume Limas Segitiga
+   Rumus: V = 1/3 × L_alas × t
+   Dengan L_alas = 1/2 × a × ts
+   Input: alas segitiga (a), tinggi segitiga (ts), tinggi limas (t)
+   Output: Volume limas segitiga
+
+   Contoh Output:
+   Masukkan alas segitiga: 6
+   Masukkan tinggi segitiga: 4
+   Masukkan tinggi limas: 10
+   Volume limas segitiga = 40.0
+
+-----------------------------------------------------------
+
+5. Volume Prisma Segitiga
+   Rumus: V = L_alas × t
+   Dengan L_alas = 1/2 × a × ts
+   Input: alas segitiga (a), tinggi segitiga (ts), tinggi prisma (t)
+   Output: Volume prisma segitiga
+
+   Contoh Output:
+   Masukkan alas segitiga: 6
+   Masukkan tinggi segitiga: 4
+   Masukkan tinggi prisma: 10
+   Volume prisma segitiga = 120.0
+
+=================================================================
+Catatan:
+- Pseudocode menjelaskan langkah-langkah logis program.
+- Flowchart menggambarkan alur proses program.
+- Output harus sesuai dengan perhitungan manual dari rumus yang digunakan.
