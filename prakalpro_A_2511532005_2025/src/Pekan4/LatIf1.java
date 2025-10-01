@@ -10,8 +10,6 @@ public class LatIf1 {
 		input.close();
 		if(IPK>2.75) {
 			System.out.println("anda Lulus Sangat Memuaskan dengan IPK "+IPK);
-		} else {
-			System.out.println("Anda Tidak Lulus");
 		}
 	}
 	
